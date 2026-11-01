@@ -1,0 +1,61 @@
+Drug_Name,Condition,Review,Rating,UsefulCount
+Metformin,Type 2 Diabetes,This medication helped lower my A1C from 9.2 to 6.1 within six months with minimal stomach upset.,9,34
+Metformin,Type 2 Diabetes,Terrible stomach cramps and severe diarrhea. Had to stop taking it after two weeks.,2,18
+Metformin,Type 2 Diabetes,Works great for controlling blood sugar but you must take it with food to avoid nausea.,8,22
+Lisinopril,Hypertension,Brought my blood pressure down to 120/80 quickly. Very satisfied with no side effects.,10,45
+Lisinopril,Hypertension,Developed a persistent dry hacking cough that would not go away. Switched to Losartan.,2,29
+Lisinopril,Hypertension,Effective at lowering blood pressure but felt dizzy when standing up during the first week.,7,15
+Sertraline,Depression,Saved my life. Took about 4 weeks to kick in but my anxiety and depression are manageable now.,10,52
+Sertraline,Depression,"Caused extreme insomnia, restlessness, and night sweats. Did not work for me at all.",1,31
+Sertraline,Depression,"Mild nausea at first, but overall feeling much calmer and able to focus at work.",8,24
+Ibuprofen,Pain,Works wonders for headache and joint swelling. Fast acting and reliable pain relief.,9,40
+Ibuprofen,Pain,Gave me severe stomach burning and acid reflux. Does not help with chronic nerve pain.,3,12
+Ibuprofen,Pain,"Good for occasional muscle aches, takes the edge off the pain within 30 minutes.",7,19
+Amoxicillin,Bacterial Infection,Cleared up my sinus infection in 5 days completely. Felt much better quickly.,9,27
+Amoxicillin,Bacterial Infection,Developed severe allergic rash and hives all over my body. Dangerous reaction.,1,38
+Amoxicillin,Bacterial Infection,Effective antibiotic but caused mild stomach upset. Taking with probiotics helped.,8,16
+Lexapro,Anxiety,Reduced my panic attacks drastically. I finally feel normal again and sleep well.,10,48
+Lexapro,Anxiety,Felt emotionally numb and experienced extreme fatigue throughout the day. Stopped it.,3,21
+Lexapro,Anxiety,Helped moderate my social anxiety. Slight weight gain but worth the peace of mind.,8,25
+Atorvastatin,High Cholesterol,Cholesterol levels dropped by 50 points in 3 months. No muscle pain observed.,9,30
+Atorvastatin,High Cholesterol,Caused unbearable leg cramps and intense joint pain. Could barely walk.,2,35
+Atorvastatin,High Cholesterol,"Good results on lab tests, blood work looks much better now.",8,14
+Omeprazole,Acid Reflux,Completely eliminated my daily heartburn and GERD symptoms. Highly recommended.,10,41
+Omeprazole,Acid Reflux,Did not relieve my reflux and caused severe bloating and headaches.,3,17
+Omeprazole,Acid Reflux,Works well when taken every morning before breakfast. Keeps acid down all day.,8,22
+Albuterol,Asthma,Opens my airways instantly during an asthma attack. Lifesaving rescue inhaler.,10,60
+Albuterol,Asthma,"Makes my heart race uncomfortably and hands shaky, but it does help me breathe.",6,18
+Albuterol,Asthma,Very effective for exercise induced wheezing. Always carry it with me.,9,33
+Gabapentin,Neuropathic Pain,Only drug that relieved my burning nerve pain after shingles. Very grateful.,9,39
+Gabapentin,Neuropathic Pain,"Felt like a zombie, extreme brain fog and dizziness. Unable to concentrate.",2,26
+Gabapentin,Neuropathic Pain,"Helps with sleep and nerve sensations, though slight grogginess in morning.",7,20
+Amlodipine,Hypertension,Excellent blood pressure control with zero complications or dizziness.,9,28
+Amlodipine,Hypertension,Caused terrible swelling in my ankles and feet. Could not wear my regular shoes.,2,32
+Amlodipine,Hypertension,Keeps my numbers consistent around 125/82. Fairly mild medication.,8,19
+Ciprofloxacin,Bacterial Infection,Quickly resolved urinary tract infection symptoms in 48 hours.,9,25
+Ciprofloxacin,Bacterial Infection,Severe tendon pain in Achilles and tingling in feet. Black box warning is real.,1,44
+Ciprofloxacin,Bacterial Infection,Cleared the infection but left a metallic taste in my mouth for days.,6,11
+Duloxetine,Depression,Great improvement in both chronic fibromyalgia pain and depressive mood.,9,36
+Duloxetine,Depression,Horrible withdrawal symptoms and extreme nausea. Worst medication experience.,1,40
+Duloxetine,Depression,Took about 3 weeks to work. Helps manage day to day stress and chronic backache.,8,23
+Losartan,Hypertension,Great replacement for Lisinopril without any dry cough. Blood pressure is stable.,9,31
+Losartan,Hypertension,Ineffective at controlling my high blood pressure even at maximum dose.,3,15
+Losartan,Hypertension,"Smooth control over my hypertension, well tolerated with no noticeable side effects.",9,27
+Prednisone,Allergies,Miracle anti-inflammatory for severe poison ivy rash. Swelling vanished overnight.,10,50
+Prednisone,Allergies,"Made me extremely irritable, anxious, and hungry all the time. Could not sleep.",3,28
+Prednisone,Allergies,"Rapid relief of severe allergic reaction, short course was effective.",8,22
+Fluoxetine,Depression,Gave me my energy and motivation back after months of deep depression.,9,37
+Fluoxetine,Depression,Increased my anxiety tenfold and gave me persistent tremors in my hands.,2,29
+Fluoxetine,Depression,Stabilized my mood effectively with minor dry mouth during the first two weeks.,8,19
+Hydrochlorothiazide,Hypertension,Very affordable water pill that works nicely to keep blood pressure down.,8,21
+Hydrochlorothiazide,Hypertension,"Caused severe dehydration, muscle cramps, and low potassium levels.",3,24
+Hydrochlorothiazide,Hypertension,"Mild diuretic effect, lowers systolic pressure by 15 points reliably.",8,17
+Tramadol,Pain,Helped me get through severe post surgery recovery pain comfortably.,8,30
+Tramadol,Pain,"Severe nausea, vomiting, and dizziness within two hours of taking it.",2,26
+Tramadol,Pain,"Takes away moderate pain effectively, but makes me drowsy so I only take at night.",7,15
+Azithromycin,Bacterial Infection,Z-pack worked quickly for bronchitis. Only 5 days of treatment needed.,9,42
+Azithromycin,Bacterial Infection,Terrible stomach cramps and diarrhea right after the first dose.,3,20
+Azithromycin,Bacterial Infection,Very convenient dosage schedule and effective at clearing chest infection.,8,28
+Cetirizine,Allergies,Best non-drowsy allergy relief for pollen and dust. No runny nose anymore.,9,35
+Cetirizine,Allergies,Made me extremely sleepy during the day despite being advertised as non-drowsy.,4,19
+Cetirizine,Allergies,Stops sneezing and itchy eyes effectively within an hour of taking.,8,26
